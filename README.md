@@ -1,7 +1,21 @@
-# HTML-CSS Practice
+# Webpage
 
-This includes webhint, stylelint, and prettier.
+## Description
 
-VS Code settings are included to streamline the process. Stylelint extension and prettier are there too for real time feedback. Because of the settings, Prettier will auto-format whenever you move out of the file.
+This webpage was made to show the benefits of web development. Beyond that it was made to demonstrate good html formating and practices.
 
-Run `npm install` to install the dependencies. Then, run `npm start` to start the server.
+## Installation
+
+N/A
+
+## Usage
+
+This can be used to learn some uses of web development and its benifits. It can also be used to teach proper use of semantic elements in html, proper orginzation of html and overall good practices when writing html.
+
+## Credits
+
+Horiseon
+
+## License
+
+Please refer to the LICENSE in the repo.
