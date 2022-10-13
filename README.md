@@ -6,11 +6,15 @@ This webpage was made to show the benefits of web development. Beyond that it wa
 
 ## Installation
 
-N/A
+link to the cite: https://nhatwin.github.io/hw-1/
 
 ## Usage
 
 This can be used to learn some uses of web development and its benifits. It can also be used to teach proper use of semantic elements in html, proper orginzation of html and overall good practices when writing html.
+
+## Screenshot
+
+<img src="Screenshot 2022-10-13 183643" alt="screemshot of website">
 
 ## Credits
 
