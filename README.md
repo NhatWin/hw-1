@@ -14,7 +14,7 @@ This can be used to learn some uses of web development and its benifits. It can 
 
 ## Screenshot
 
-<img src="Screenshot 2022-10-13 183643" alt="screemshot of website">
+<img src="./Screenshot 2022-10-13 183643" alt="screemshot of website">
 
 ## Credits
 
