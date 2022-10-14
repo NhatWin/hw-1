@@ -14,7 +14,7 @@ This can be used to learn some uses of web development and its benifits. It can 
 
 ## Screenshot
 
-![Alt text](./assets/images/Screenshot 2022-10-13 183643 "screemshot of website")
+![Alt text](./assets/images/screenshot "screemshot of website")
 
 ## Credits
 
